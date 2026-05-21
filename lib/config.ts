@@ -5,7 +5,7 @@
 
 export const config = {
   gemini: {
-    apiKey: "AIzaSyC09db0Qay_UHDALSKYDzjtLhfZc0NpIwA",
+    apiKey: "your_gemini_key",
     model: "gemini-3.1-flash-lite-preview",
   },
 } as const;
